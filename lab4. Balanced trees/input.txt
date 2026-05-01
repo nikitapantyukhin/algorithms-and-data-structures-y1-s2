@@ -1,0 +1,31 @@
+1 pullup 15.5
+1 pushup 40.0
+1 squat 50.5
+1 dip 25.0
+1 plank 120.0
+1 run 5.2
+1 swim 1000.0
+1 jump 30.0
+1 lunges 20.0
+1 bench 85.0
+1 dead 140.0
+1 press 60.5
+1 burpee 15.0
+1 yoga 45.0
+1 bike 25.4
+1 cross 10.0
+1 sprint 100.0
+1 row 500.0
+1 kettle 24.0
+1 muscle 5.0
+1 stat 60.0
+1 box 12.0
+3
+4 pullup
+4 muscle
+4 relax
+2 run
+2 yoga
+2 squat
+3
+0

@@ -1,0 +1,129 @@
+1 pullup 15.500000
+Inserted: pullup
+
+1 pushup 40.000000
+Inserted: pushup
+
+1 squat 50.500000
+Inserted: squat
+
+1 dip 25.000000
+Inserted: dip
+
+1 plank 120.000000
+Inserted: plank
+
+1 run 5.200000
+Inserted: run
+
+1 swim 1000.000000
+Inserted: swim
+
+1 jump 30.000000
+Inserted: jump
+
+1 lunges 20.000000
+Inserted: lunges
+
+1 bench 85.000000
+Inserted: bench
+
+1 dead 140.000000
+Inserted: dead
+
+1 press 60.500000
+Inserted: press
+
+1 burpee 15.000000
+Inserted: burpee
+
+1 yoga 45.000000
+Inserted: yoga
+
+1 bike 25.400000
+Inserted: bike
+
+1 cross 10.000000
+Inserted: cross
+
+1 sprint 100.000000
+Inserted: sprint
+
+1 row 500.000000
+Inserted: row
+
+1 kettle 24.000000
+Inserted: kettle
+
+1 muscle 5.000000
+Inserted: muscle
+
+1 stat 60.000000
+Inserted: stat
+
+1 box 12.000000
+Inserted: box
+
+3
+color: B key: plank value: 120.000000
+|   _L: color: B key: dead value: 140.000000
+|   |   _L: color: R key: bike value: 25.400000
+|   |   |   _L: color: B key: bench value: 85.000000
+|   |   |   _R: color: B key: burpee value: 15.000000
+|   |   |   |   _L: color: R key: box value: 12.000000
+|   |   |   |   _R: color: R key: cross value: 10.000000
+|   |   _R: color: R key: jump value: 30.000000
+|   |   |   _L: color: B key: dip value: 25.000000
+|   |   |   _R: color: B key: lunges value: 20.000000
+|   |   |   |   _L: color: R key: kettle value: 24.000000
+|   |   |   |   _R: color: R key: muscle value: 5.000000
+|   _R: color: B key: pushup value: 40.000000
+|   |   _L: color: B key: pullup value: 15.500000
+|   |   |   _L: color: R key: press value: 60.500000
+|   |   _R: color: R key: squat value: 50.500000
+|   |   |   _L: color: B key: run value: 5.200000
+|   |   |   |   _L: color: R key: row value: 500.000000
+|   |   |   |   _R: color: R key: sprint value: 100.000000
+|   |   |   _R: color: B key: swim value: 1000.000000
+|   |   |   |   _L: color: R key: stat value: 60.000000
+|   |   |   |   _R: color: R key: yoga value: 45.000000
+
+4 pullup
+Found: pullup -> 15.500000
+
+4 muscle
+Found: muscle -> 5.000000
+
+4 relax
+Key not exist
+
+2 run
+Deleted: run
+
+2 yoga
+Deleted: yoga
+
+2 squat
+Deleted: squat
+
+3
+color: B key: plank value: 120.000000
+|   _L: color: B key: dead value: 140.000000
+|   |   _L: color: R key: bike value: 25.400000
+|   |   |   _L: color: B key: bench value: 85.000000
+|   |   |   _R: color: B key: burpee value: 15.000000
+|   |   |   |   _L: color: R key: box value: 12.000000
+|   |   |   |   _R: color: R key: cross value: 10.000000
+|   |   _R: color: R key: jump value: 30.000000
+|   |   |   _L: color: B key: dip value: 25.000000
+|   |   |   _R: color: B key: lunges value: 20.000000
+|   |   |   |   _L: color: R key: kettle value: 24.000000
+|   |   |   |   _R: color: R key: muscle value: 5.000000
+|   _R: color: B key: pushup value: 40.000000
+|   |   _L: color: B key: pullup value: 15.500000
+|   |   |   _L: color: R key: press value: 60.500000
+|   |   _R: color: R key: stat value: 60.000000
+|   |   |   _L: color: B key: sprint value: 100.000000
+|   |   |   |   _L: color: R key: row value: 500.000000
+|   |   |   _R: color: B key: swim value: 1000.000000
+
