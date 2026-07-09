@@ -1,4 +1,4 @@
-# labs_algorithms_spring_2026
+# Лабораторные работы по АиСД 2 семестр
 
 [Лабораторная работа №1. Динамические структуры данных. Обработка деревьев](https://github.com/nikitapantyukhin/labs_algorithms_spring_2026/tree/main/lab1.%20Dynamic%20data%20structures.%20Tree%20processing)
 
